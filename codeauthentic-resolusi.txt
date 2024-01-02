@@ -1,4 +1,4 @@
 Rencana Codeauthentic untuk 2024
 - louncing web nya dengan responsive design
-- terdapat beberapa fitur pada web codeauthentic
 - minimal membuat 2 template kartu ungangan
+- membuat online book
